@@ -1,0 +1,14 @@
+{
+  "name": "trailblazer",
+  "version": "1.0.0",
+  "description": "implementing node, express, mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Vignesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
